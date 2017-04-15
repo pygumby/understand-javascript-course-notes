@@ -2,6 +2,8 @@
 
 ## An advanced JavaScript course for everyone! Scope, closures, prototypes, `this`, build your own framework, and more. 
 
+![Certificate](UC-FYC096U9.jpg)
+
 ### Overview
 
 This is the source code of the "Let's Build a Framework / Library!" section of the "JavaScript: The Weird Parts" course on Udemy. This course can be found at https://www.udemy.com/understand-javascript/.
