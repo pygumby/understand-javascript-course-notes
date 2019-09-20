@@ -16,7 +16,7 @@
 
 ---
 
-### 1. Progress
+## 1. Progress
 
 I followed along the entire course, however, this repository only contains the final project from section 9 ("Let's Build a Framework /
 Library!").
@@ -25,7 +25,7 @@ Library!").
 
 Check out `app.js` to see how it's used. It's pretty self-explanatory!
 
-### 3. Certificate
+## 3. Certificate
 
 <a href="https://www.udemy.com/certificate/UC-FYC096U9">
   <img alt="Certificate" width=50% height=50% src="UC-FYC096U9.jpg" />
