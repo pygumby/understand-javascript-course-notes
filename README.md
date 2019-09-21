@@ -10,20 +10,20 @@
 
 ---
 
-1. [Progress](#1-progress) 
-2. [Usage](#2-usage)
+1. [Usage](#1-usage)
+2. [Progress](#2-progress) 
 3. [Certificate](#3-certificate)
 
 ---
 
-## 1. Progress
+## 1. Usage
+
+Check out `app.js` to see how it's used. It's pretty self-explanatory!
+
+## 2. Progress
 
 I followed along the entire course, however, this repository only contains the final project from section 9 ("Let's Build a Framework /
 Library!").
-
-## 2. Usage
-
-Check out `app.js` to see how it's used. It's pretty self-explanatory!
 
 ## 3. Certificate
 
